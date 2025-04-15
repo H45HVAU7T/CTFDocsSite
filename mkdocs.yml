@@ -1,0 +1,69 @@
+site_name: HashVault CTF Team
+site_url: https://hashvault.club/ctf
+theme:
+  favicon: assets/pfp.png
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: teal
+  font:
+    text: "Kanit"
+  logo: assets/pfp.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.footer
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - search.suggest
+
+copyright: >
+  &copy; 2025 <strong>HashVault</strong> – 
+  Built by hackers, for hackers. Stay curious. Stay sharp. 🔐<br>
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/hashvault_bnm
+      name: HashVault Instagram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/hashvault-bnmit
+      name: HashVault Linkedin
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/3YXya6dgxq
+      name: HashVault Discord
+  generator: false
+  
+
+plugins:
+  - search
+  - blog:
+      authors: true
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition 
+  - pymdownx.details
+
+repo_url: https://github.com/H45HVAU7T/CTFDocsSite
+repo_name: H45HVAU7T/CTFDocsSite
