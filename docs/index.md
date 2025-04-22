@@ -1,91 +1,90 @@
-# Welcome to HashVault
+# 🔐 Welcome to HashVault CTF
 
-**HashVault** is BNMIT’s official cybersecurity collective — a community forged by hackers, for hackers.  
-We explore, break, build, and secure digital systems with curiosity, precision, and ethical intent.  
-Whether you're a beginner or an experienced red teamer, if you’re passionate about cybersecurity — **this is your vault**.
+**HashVault CTF** is the official Capture The Flag (CTF) wing of BNMIT’s HashVault.  
+We’re a student-led initiative that explores cybersecurity through hands-on, challenge-based learning.  
+Our goal is to create a space where students can develop technical skills, collaborate with peers, and represent BNMIT at national and global events.
 
----
-
-## 🔐 What We Do
-
-HashVault is more than a club. We’re an ecosystem focused on:
-
-- **Capture The Flag (CTF) competitions** – Web, crypto, forensics, binary, and more.
-- **Workshops & Awareness Events** – Bi-monthly sessions on the latest threats, tools, and techniques.
-- **Research & Open Source Projects** – From recon tools to training platforms.
-- **Internal Cyber Lab** – A growing sandbox of intentionally vulnerable apps and network challenges.
-- **Career Guidance & Mentorship** – Resources, prep, and support for careers in cybersecurity.
+Whether you're a beginner exploring ethical hacking or someone looking to sharpen your technical edge — this is the place to start.
 
 ---
 
-## 🕵️ Meet the CTF Team
+## 🎯 Vision & Objectives
 
-Our CTF team represents HashVault in regional and national-level hacking competitions.  
-We solve challenges across categories like:
+**Our Goal:**  
+Build a community of skilled cybersecurity enthusiasts through collaborative CTF learning.
 
-- Web Exploitation
-- Reverse Engineering
-- Cryptography
-- Binary Exploits
-- OSINT
-- Forensics
-- Pwn
-
-### 📈 Our Achievements
-
-- 🏆 **HackQuest 2K25** – Top 10 National Ranking  
-- 🥈 **CYBORG – Cybernetic Defence Unleashed** – 2nd Place  
-- 🛠️ Hosted our own internal CTF “Room Raid” with student-built challenges
+**We Focus On:**
+- Developing real-world offensive security skills
+- Promoting teamwork and peer learning
+- Representing BNMIT in national/international CTFs
+- Hosting awareness and training events for the wider student community
 
 ---
 
-## 👥 Join the Vault
+## 🗓️ Our Events
 
-We welcome passionate students from all domains — no prior experience required.  
-Whether you want to:
-- Compete in CTFs
-- Learn ethical hacking
-- Build cyber tools
-- Teach others
-- Or just hang out with like-minded techies...
+| Event Type        | Frequency     |
+|-------------------|---------------|
+| Training Sessions | Weekly        |
+| Internal CTFs     | Monthly       |
+| Flash Challenges  | Weekly        |
+| External CTFs     | As per events |
 
-**There’s a place for you in HashVault.**
-
-Follow our updates on:
-- [LinkedIn](https://www.linkedin.com/company/hashvault-bnmit/)
-- Join our internal Discord/WhatsApp for announcements (ask a committee member)
+We maintain an active calendar of events including internal CTFs, peer-led sessions, and participation in national-level challenges.
 
 ---
 
-## 📜 Code of Conduct
+## 🧠 Domains We Cover
 
-We uphold a standard of **ethical hacking**. All activities are performed:
-- With consent
-- Within legal boundaries
-- For education and defense
-
-Respect. Integrity. Curiosity. Community. That’s the HashVault way.
-
----
-
-## 🚀 Getting Started
-
-To start your journey:
-1. Attend a session or awareness event.
-2. Join the Discord server or reach out to a team lead.
-3. Pick a challenge — web, crypto, or binary — and dive in.
-4. Ask questions. Learn fast. Break things (responsibly).
+| Domain              | Tools/Focus Areas                 |
+|---------------------|-----------------------------------|
+| Web Exploitation    | Burp Suite, XSS, SQLi, SSRF       |
+| Cryptography        | XOR, RSA, AES, Encoding/Logic     |
+| Reverse Engineering | Ghidra, IDA Free, static analysis |
+| Forensics           | Wireshark, binwalk, file carving  |
+| Binary Exploitation | pwntools, gdb, BOF                |
+| OSINT               | Google dorks, social mining       |
+| Steganography       | Hidden data in media              |
 
 ---
 
-## 🧠 Built with MkDocs
+## 📖 Writeups & Knowledge Base
 
-This site is powered by [MkDocs](https://www.mkdocs.org) and maintained by the HashVault Technical Team.  
-Suggestions, improvements, and contributions are always welcome.
+We maintain detailed writeups and challenge walkthroughs on GitHub and our knowledge platform.
+
+Each writeup follows a simple format:
+> Problem → Approach → Solution → Key Learnings
+
+This helps build a rich learning base while boosting our club’s external visibility.
 
 ---
 
-Welcome to the vault.  
-**Stay curious. Stay sharp.**
+## 🎉 Recognition & Growth
 
-— *Team HashVault* 🔐
+We celebrate progress and passion! Members get recognition through:
+- Highlighted contributions
+- Feature spots on Discord and website
+- Opportunities to represent HashVault in elite CTFs
+
+---
+
+## 🚀 Outreach & Community
+
+We regularly host open CTFs, collaborate with other colleges, and engage the broader cyber community.
+
+We also invite guest speakers, conduct cyber awareness sessions, and encourage knowledge sharing through writeups and social media.
+
+---
+
+## 🔗 Connect With Us
+
+- **LinkedIn:** [HashVault BNMIT](https://www.linkedin.com/company/hashvault-bnmit/)
+- **GitHub:** *(Coming Soon)*
+- **Join Us:** Ask a core team member to join our community server
+
+---
+
+**Built by hackers. Backed by community. Focused on growth.**  
+Join the movement. Capture the knowledge. 🔐
+
+~ *Team HashVault*
