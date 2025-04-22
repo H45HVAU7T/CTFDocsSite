@@ -14,6 +14,7 @@ Whether you're a beginner exploring ethical hacking or someone looking to sharpe
 Build a community of skilled cybersecurity enthusiasts through collaborative CTF learning.
 
 **We Focus On:**
+
 - Developing real-world offensive security skills
 - Promoting teamwork and peer learning
 - Representing BNMIT in national/international CTFs
@@ -62,6 +63,7 @@ This helps build a rich learning base while boosting our club’s external visib
 ## 🎉 Recognition & Growth
 
 We celebrate progress and passion! Members get recognition through:
+
 - Highlighted contributions
 - Feature spots on Discord and website
 - Opportunities to represent HashVault in elite CTFs
