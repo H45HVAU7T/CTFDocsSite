@@ -50,3 +50,15 @@ Explore challenges from this event in the [Challenge Categories](Categories/misc
 ---
 
 *Note: For more details and updates, please refer to the official [Unstop event page](https://unstop.com/competitions/shadow-apocalypse-ctf-2025-srm-institute-of-science-and-technology-srmist-tiruchirappalli-1475028).*
+
+---
+
+## 👑 Credits
+
+### DarkLead - [https://darklead.org](https://darklead.org)  
+  
+Gowthaman GS - [https://www.linkedin.com/in/thw01f/](https://www.linkedin.com/in/thw01f/)  
+Subir Nath Bhowmik - [https://linkedin.com/in/snbhowmik](https://linkedin.com/in/snbhowmik)  
+Mehbub Muztaba Mazumder - [https://www.linkedin.com/in/mehbub-muztaba-mazumder-b47ba2322/](https://www.linkedin.com/in/mehbub-muztaba-mazumder-b47ba2322/)  
+Muhammed Aflah S - [https://www.linkedin.com/in/muhammed-aflah-s-545a6135a/](https://www.linkedin.com/in/muhammed-aflah-s-545a6135a/)  
+Nandakishore V - [https://www.linkedin.com/in/nkofficial/](https://www.linkedin.com/in/nkofficial/)  
