@@ -5,7 +5,7 @@ categories:
     - test
 date: 2025-04-15
 links:
-    - HashVault/index.md
+    - index.md
 readtime: 15
 ---
 
