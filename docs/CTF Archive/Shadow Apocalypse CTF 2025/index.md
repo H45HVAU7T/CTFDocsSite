@@ -55,10 +55,11 @@ Explore challenges from this event in the [Challenge Categories](Categories/misc
 
 ## 👑 Credits
 
-### DarkLead - [https://darklead.org](https://darklead.org)  
+### CTF Organized by [SRM Institute of Science & Technology](https://www.srmist.edu.in/) and hosted by [DarkLead!](https://darklead.org)  
   
+---
+### Authors:  
 Gowthaman GS - [https://www.linkedin.com/in/thw01f/](https://www.linkedin.com/in/thw01f/)  
-Subir Nath Bhowmik - [https://linkedin.com/in/snbhowmik](https://linkedin.com/in/snbhowmik)  
 Mehbub Muztaba Mazumder - [https://www.linkedin.com/in/mehbub-muztaba-mazumder-b47ba2322/](https://www.linkedin.com/in/mehbub-muztaba-mazumder-b47ba2322/)  
 Muhammed Aflah S - [https://www.linkedin.com/in/muhammed-aflah-s-545a6135a/](https://www.linkedin.com/in/muhammed-aflah-s-545a6135a/)  
 Nandakishore V - [https://www.linkedin.com/in/nkofficial/](https://www.linkedin.com/in/nkofficial/)  

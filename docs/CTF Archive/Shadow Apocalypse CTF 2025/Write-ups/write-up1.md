@@ -16,10 +16,12 @@ Include any hints, cryptic phrases, or storylines provided in the problem.
 
 ---
 
-## 📁 Provided Files
+## 📁 Provided Files  
 
+Link the challenge's files as follows:
+```md
 - 🔗 [Example Download Attachment](../../attachments/example.zip)
-
+```
 ---
 
 ## 🧩 Step-by-Step Solution
